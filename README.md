@@ -22,26 +22,26 @@
 # Basic 101 Lessons
 
 ## Solidity
-https://github.com/l-henri/solidity-101
+[This is an automated workshop that will on using Solidity Smart contracts. It is aimed at developers who are not familiar with Solidity, or smart contracts.](https://github.com/l-henri/solidity-101)
 
 ## Signatures
-https://github.com/l-henri/signatures-101
+[This is an automated workshop that will guide you into learning out to use Ethereum signatures in smart contracts, and in meta transactions. It is aimed at developpers that are familiar with Solidity.](https://github.com/l-henri/signatures-101)
 
 ## ERC721
-https://github.com/l-henri/erc721-101
+[This is an automated workshop that will explain how to deploy an ERC721 token, and customize it to perform specific functions. It is aimed at developpers that have never written code in Solidity, but who understand its syntax.](https://github.com/l-henri/erc721-101)
 
 ## ERC20
 ### ERC20 101
-https://github.com/l-henri/erc20-101
+[This is an automated workshop that will explain how to deploy and ERC20 token, and customize it to perform specific functions. It is aimed at developpers that have never written code in Solidity, but who understand its syntax.](https://github.com/l-henri/erc20-101)
 
 ### ERC20 102
-https://github.com/l-henri/erc20-102
+[This is an automated workshop that will dive deeper into managing ERC20 tokens. Specifically we will look at patterns using approve() and transferFrom(). It is aimed at developers used to interacting with and writing smart contracts.](https://github.com/l-henri/erc20-102)
 
 ## AMM (uniswap)
-https://github.com/l-henri/amm-101
+[This is an automated workshop that will guide you into using Uniswap and doing a simple integration in a smart contract. It is aimed at developpers that are familiar with Solidity and ERC20](https://github.com/l-henri/amm-101)
 
 ## AVVE (lending)
-https://github.com/l-henri/lending-101
+[This is an automated workshop that will guide you into using AAVE and doing a simple integration in a smart contract. It is aimed at developpers that are familiar with Solidity and ERC20](https://github.com/l-henri/lending-101)
 
 # DApps Development
 
