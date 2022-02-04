@@ -2,7 +2,16 @@
 
 - A new repo collating various resources for learning about smart contracts, tokens, crypto, blockchain etc.
 
+# Contents
+
+
 # 101 Lessons
+- [Solidity](#solidity)
+- [Signatures](#signatures)
+- [ERC721](#erc721)
+- [ERC20](#erc20)
+- [AMM (uniswap)](#amm-(uniswap))
+- [AVVE (lending)](#avve-(lending))
 
 ## Solidity
 https://github.com/l-henri/solidity-101
