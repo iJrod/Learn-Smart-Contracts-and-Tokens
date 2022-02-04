@@ -1,6 +1,7 @@
 ### About
 
 - A new repo collating various resources for learning about smart contracts, tokens, crypto, blockchain etc.
+- Inspired by helping those in the [Rebels](https://rebels.art/) project
 
 # Contents
 - [101 Lessons](#basic-101-lessons)
