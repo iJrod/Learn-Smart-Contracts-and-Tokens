@@ -3,6 +3,28 @@
 - A new repo collating various resources for learning about smart contracts, tokens, crypto, blockchain etc.
 - Inspired by helping those in the [Rebels](https://rebels.art/) project
 
+### Initial Basics
+#### What is Solidity?
+[Solidity](https://docs.soliditylang.org/en/v0.8.11/#) - a programming language created in 2014 by a chap named Gavid Wood. The language is turing complete, high level, and object-oriented and is used for interacting with the [Ethereum Virtual Machine (EVM)](https://ethereum.org/en/developers/docs/evm/). Developers can utilise the language to implement and interact with smart contracts.
+> A **smart contract** is a program that governs behaviour on a blockchain. Smart contracts are executed as code and power the Ethereum ecosystem.
+
+### What would I use a smart contract for?
+There are many use cases for using smart contracts, below are three common ones. You may well be familiar with NFTs:
+1) Non-fungible Tokens (NFT)
+2) Decentralised Finance (DeFi)
+3) Digital Identity
+
+### Okay. But, I need some more understanding of the basics
+Understanding this new wave of technology can be overwelming, even to those who are already highly technical in other fields with specialisms. You're not too late to start learning, in fact, you'll be ahead of the curve. To begin with, take a look at the below:
+
+1) Familiarise yourself with the basics of blockchain and understand the fundamentals of what it is and how it works. The more you study and understand this part, the better your understanding will be for everything else. 
+2) Read the whitepapers from [Bitcoin](https://bitcoin.org/en/bitcoin-paper) and [Ethereum](https://ethereum.org/en/whitepaper/)
+3) Use free resources such as YouTube to research blockchain, smart contracts, etherium, and bitcoin. Vitalik Buterin (co-founder of Ethereum) presented a talk at DEVCON1 on understanding the Ethereum Blockchain Protocol. I recommend watching it [here](https://www.youtube.com/watch?v=gjwr-7PgpN8) (38:17).
+4) Start with the 101's. I recommend taking a look through the contents of [101 Lessons](#basic-101-lessons). Possibly focus on [ERC20](#erc20) to begin with and then the [ERC721](#erc721) protocol.
+5) Take a look at the contens of [CryptoZombies](#cryptozombies). I have separated it into two categories - Beginner and Advanced.
+6) Read some pre-existing smart contracts using Etherscan. See my section on [Analysing Smart Contracts](#analysing-smart-contracts)
+
+
 # Contents
 - [101 Lessons](#basic-101-lessons)
   - [Solidity](#solidity)
@@ -77,7 +99,7 @@ Best of all, buildspace **is free.**
 ## Get started
 1) Join the Discord [here](https://discord.gg/Au4JGH32yE) - don't be put off by the minimal channels, that will change soon.
 2) Visit [here](https://app.buildspace.so/) to register using your email address
-3) Once registered and verified, you can see the Projects dasboard [here](https://app.buildspace.so/home). You don't need to complete the profile, but you can do.
+3) Once registered and verified, you can see the Projects dashboard [here](https://app.buildspace.so/home). You don't need to complete the profile, but you can do.
 4) Select a project such as [Build a Web3 App with Solidity + Ethereum Smart Contracts](https://app.buildspace.so/projects/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b)
 5) You will then be able to link your Discord account to your buildspace account
 6) You will then need to connect your ETH Wallet. I use MetaMask and created a new wallet specificly for this
@@ -92,3 +114,16 @@ Best of all, buildspace **is free.**
 - [Build your own DAO with just Javascript in a weekend](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766)
 - [Build your own domain service on a Polygon L2 in a weekend](https://app.buildspace.so/projects/CO1f8c72fd-67a3-4f99-90b8-79879c5da1eb)
 
+# Analysing Smart Contracts
+## About
+A great way of learning about smart contracts, to further strengthen your knowledge in how they work, is to read and study pre-existing smart contracts.
+## How to Analyse Smart Contracts
+These are some simple steps to get you started:
+1) https://etherscan.io/
+2) Enter your search details. For example, I am searching on the token: Matic
+3) Select the 'Contract' tab from the table view
+4) From the current view, you can read the basic contract for the token. Each section is a function that you can expand to read:
+![image](https://user-images.githubusercontent.com/26026416/152656016-6920e55a-aca5-4b63-8479-2f9d49a9d949.png)
+5) Using the decimals and totalSupply sections, I can read that Matic is a token with 18 decimals and a total supply of 10,000,000,000 tokens - click the hyperlinked total to convert to Ether (1).
+6) For some tokens, you may have fields such as Governance (not in Matic's case). Governance will usually have an address that is hyperlinked, allowing you to click to read a specific section of a tokens governance contract.
+7) Research different tokens and start understanding the different contracts. You'll learn a lot!
