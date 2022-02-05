@@ -1,7 +1,7 @@
 ### About
 
 - A new repo collating various resources for learning about smart contracts, tokens, crypto, blockchain etc.
-- Inspired by helping those in the [Rebels](https://rebels.art/) project
+- Inspired by wanting to help those in the [Rebels](https://rebels.art/) project
 
 ### Initial Basics
 #### What is Solidity?
