@@ -44,7 +44,7 @@ Understanding this new wave of technology can be overwelming, even to those who 
   - [Get Started](#get-started)
   - [Projects](#list-of-projects)
 - [Analysing Smart Contracts](#analysing-smart-contracts)
-  - [Why Analysing](#why-analyse)
+  - [Why analyse](#why-analyse)
   - [How to analyse Smart Contracts](#how-to-analyse-smart-contracts)
 
 # Basic 101 Lessons
