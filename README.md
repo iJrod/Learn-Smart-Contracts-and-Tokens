@@ -66,7 +66,18 @@ https://cryptozombies.io/
 
 # Web3 Developer Community
 https://buildspace.so/
+## About buildspace
+Learn by making stuff! Buildspace courses focus on making stuff, not sitting in front of hours of recorded videos. Once you enrol into one of the projects, you will get access to more hanells in the Discord and you'll be able to speak with others doing the same projects as you - in the same cohort. 
 
+Best of all, buildspace **is free.**
 
+## Get started
+1) Join the Discord [here](https://discord.gg/Au4JGH32yE) - don't be put off by the minimal channels, that will change soon.
+2) Visit [here](https://app.buildspace.so/) to register using your email address
+3) Once registered and verified, you can see the Projects dasboard [here](https://app.buildspace.so/home). You don't need to complete the profile, but you can do.
+4) Select a project such as [Build a Web3 App with Solidity + Ethereum Smart Contracts](https://app.buildspace.so/projects/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b)
+5) You will then be able to link your Discord account to your buildspace account
+6) You will then need to connect your ETH Wallet. I use MetaMask and created a new wallet specificly for this
+7) Some projects will require you to wait until the live event, some allow you to start early. Enjoy!
 
 
