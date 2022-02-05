@@ -43,6 +43,9 @@ Understanding this new wave of technology can be overwelming, even to those who 
   - [About](#about-buildspace)
   - [Get Started](#get-started)
   - [Projects](#list-of-projects)
+- [Analysing Smart Contracts](#analysing-smart-contracts)
+  - [Why Analysing](#why-analyse)
+  - [How to analyse Smart Contracts](#how-to-analyse-smart-contracts)
 
 # Basic 101 Lessons
 
@@ -115,9 +118,9 @@ Best of all, buildspace **is free.**
 - [Build your own domain service on a Polygon L2 in a weekend](https://app.buildspace.so/projects/CO1f8c72fd-67a3-4f99-90b8-79879c5da1eb)
 
 # Analysing Smart Contracts
-## About
+## Why analyse
 A great way of learning about smart contracts, to further strengthen your knowledge in how they work, is to read and study pre-existing smart contracts.
-## How to Analyse Smart Contracts
+## How to analyse Smart Contracts
 These are some simple steps to get you started:
 1) https://etherscan.io/
 2) Enter your search details. For example, I am searching on the token: Matic
