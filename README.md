@@ -2,6 +2,7 @@
 
 - A new repo collating various resources for learning about smart contracts, tokens, crypto, blockchain etc.
 - Inspired by wanting to help those in the [Rebels](https://rebels.art/) project
+- Jump to [Contents](#contents)
 
 ### Initial Basics
 #### What is Solidity?
