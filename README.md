@@ -149,7 +149,7 @@ contract HelloWorld {
     string public greet = "Hello World!";
 }
 ```
-**pragma** defined the compiler version of solidity, it will always be at the top of the file.
+**pragma** defines the compiler version of solidity, it will always be at the top of the file.
 
 ## Simple Solidity Examples
 Further up I referenced [Solidity](#solidity) under the [101 Lessons](#basic-101-lessons). It would be good to have a quick look through there, see if you understand anything and then put it to the side to work on later.
