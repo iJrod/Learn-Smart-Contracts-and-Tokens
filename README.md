@@ -46,6 +46,11 @@ Understanding this new wave of technology can be overwelming, even to those who 
 - [Analysing Smart Contracts](#analysing-smart-contracts)
   - [Why analyse](#why-analyse)
   - [How to analyse Smart Contracts](#how-to-analyse-smart-contracts)
+- [Learn Solidity](#learn-solidity) 
+  - [Do I need to be a developer?](#do-i-need-to-be-a-developer)
+  - [HelloWorld](#hello-world)
+  - [Simple Solidity Examples](#simple-solidity-examples)
+  - [Remix IDE](#remix-ide)
 
 # Basic 101 Lessons
 
@@ -130,3 +135,31 @@ These are some simple steps to get you started:
 5) Using the decimals and totalSupply sections, I can read that Matic is a token with 18 decimals and a total supply of 10,000,000,000 tokens - click the hyperlinked total to convert to Ether (1).
 6) For some tokens, you may have fields such as Governance (not in Matic's case). Governance will usually have an address that is hyperlinked, allowing you to click to read a specific section of a tokens governance contract.
 7) Research different tokens and start understanding the different contracts. You'll learn a lot!
+
+# Learn Solidity
+## Do I need to be a developer?
+No, you do not need prior developer experience to get started with Solidity. As long as you have the passion and determination to learn, you will achieve it. 1-hour is 4% of your day, and if you do that daily you're already improving and learning something fantastically new.
+
+## HelloWorld
+```
+pragma solidity ^0.8.10;
+
+contract HelloWorld {
+    string public greet = "Hello World!";
+}
+```
+**pragma** defined the compiler version of solidity, it will always be at the top of the file.
+
+## Simple Solidity Examples
+Further up I referenced [Solidity](#solidity) under the [101 Lessons](#basic-101-lessons). It would be good to have a quick look through there, see if you understand anything and then put it to the side to work on later.
+
+I do first recommend that you take a look at [Solidity by Example](https://solidity-by-example.org/) which provides you an introduction to Solidity with simple examples - using compiler v0.8.10. Even better, there are [YouTube Videos](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p) explaining the examples. So you can read, watch, and learn at the same time!
+
+The creator, Smart Contract Engineer, has _three_ **free** challenges [here](https://www.smartcontract.engineer/challenges): Hello World; Value Types; and Function. If you wish to do the other 57+ challenges then you will need to subscribe for $60 - giving you 1-year access. I believe you will be able to practice without subscribing to a platform like this, I mention it due to some people preferring the extra guardrails.
+
+## Remix IDE
+Remix IDE is an open source web and desktop application. Remix is used for the entire journey of contract development as well as act as a playground for learning and teaching Ethereum and it helps you write Solidity contracts straight from the browser.
+- [Remix IDE](https://remix.ethereum.org/)
+- [Remix docs](https://remix-ide.readthedocs.io/en/latest/)
+
+If you wish to download Remix for offline use, you can obtain it from [GitHub](https://github.com/ethereum/remix-project). You can opt to run it with [NPM](https://github.com/ethereum/remix-project#setup) or [Docker](https://github.com/ethereum/remix-project#docker).
